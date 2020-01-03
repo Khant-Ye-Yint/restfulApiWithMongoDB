@@ -1,2 +1,2 @@
 # restfulApiWithMongoDB
-This is my first project with mongo
+This is my first project with mongo database.
